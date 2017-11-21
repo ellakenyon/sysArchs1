@@ -6,5 +6,8 @@ ul{list-style-type:lower-roman;
   color:yellow;
   font-family:"Iskoola Pota";}
 hr{color:yellow;}
+table{border-collapse: collapse;
+background-color: red; font-family:Arial;}
+
 
 
